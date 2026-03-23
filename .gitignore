@@ -1,0 +1,29 @@
+# Dependencies / build output
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+*.spec
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Environment
+.env
+*.env.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
