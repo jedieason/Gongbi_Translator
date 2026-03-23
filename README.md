@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/engine-Google%20Translate-4285F4?logo=google" />
   </p>
 
-  <a href="https://github.com/jedieason/gongbi-translator/releases/latest">
+  <a href="https://github.com/jedieason/Gongbi_Translator/releases/latest">
     <img src="https://img.shields.io/badge/⬇%20Download%20for%20macOS-v1.0-1A73E8?style=for-the-badge" alt="Download" />
   </a>
 </div>
@@ -37,7 +37,7 @@
 
 ### Steps
 
-1. **Download** the latest `.dmg` file from the [Releases page](https://github.com/jedieason/gongbi-translator/releases/latest).
+1. **Download** the latest `.dmg` file from the [Releases page](https://github.com/jedieason/Gongbi_Translator/releases/latest).
 
 2. **Open** the downloaded `.dmg` file by double-clicking it.
 
@@ -75,8 +75,8 @@ If you'd like to build the app yourself:
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/jedieason/gongbi-translator.git
-cd gongbi-translator
+git clone https://github.com/jedieason/Gongbi_Translator.git
+cd Gongbi_Translator
 ```
 
 ### 3. Create a virtual environment and install dependencies
